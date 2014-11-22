@@ -1,0 +1,800 @@
+ time =  0.50000E-01 Instant Kin.energy= 0.29247E+03 Pot.E = -0.76379E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.41962E-04
+ Av. Pot. En.=-0.75377E+02 M.sq.Dev= 0.17712E+01
+ Av. Shft.En.=-0.72608E+02 M.sq.Dev= 0.17754E+01
+ Av. Kin. En.= 0.28870E+03 M.sq.Dev= 0.17754E+01
+ Temperature = 0.28870E+01 M.sq.Dev= 0.17754E-01
+ Pressure    = 0.84813E+02 M.sq.Dev= 0.38405E+00
+
+ time =  0.10000E+00 Instant Kin.energy= 0.29857E+03 Pot.E = -0.82479E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.96075E-03
+ Av. Pot. En.=-0.79808E+02 M.sq.Dev= 0.49069E+01
+ Av. Shft.En.=-0.77005E+02 M.sq.Dev= 0.48654E+01
+ Av. Kin. En.= 0.29310E+03 M.sq.Dev= 0.48646E+01
+ Temperature = 0.29310E+01 M.sq.Dev= 0.48646E-01
+ Pressure    = 0.96760E+02 M.sq.Dev= 0.21141E+02
+
+ time =  0.15000E+00 Instant Kin.energy= 0.26680E+03 Pot.E = -0.50710E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.14856E-02
+ Av. Pot. En.=-0.76121E+02 M.sq.Dev= 0.90234E+01
+ Av. Shft.En.=-0.73267E+02 M.sq.Dev= 0.90673E+01
+ Av. Kin. En.= 0.28936E+03 M.sq.Dev= 0.90668E+01
+ Temperature = 0.28936E+01 M.sq.Dev= 0.90668E-01
+ Pressure    = 0.18619E+03 M.sq.Dev= 0.14415E+03
+
+ time =  0.20000E+00 Instant Kin.energy= 0.29002E+03 Pot.E = -0.73937E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.16689E-02
+ Av. Pot. En.=-0.73077E+02 M.sq.Dev= 0.99777E+01
+ Av. Shft.En.=-0.70167E+02 M.sq.Dev= 0.10056E+02
+ Av. Kin. En.= 0.28626E+03 M.sq.Dev= 0.10056E+02
+ Temperature = 0.28626E+01 M.sq.Dev= 0.10056E+00
+ Pressure    = 0.27069E+03 M.sq.Dev= 0.19258E+03
+
+ time =  0.25000E+00 Instant Kin.energy= 0.26194E+03 Pot.E = -0.45846E+02 Total =  0.21610E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31501E-02
+ Av. Pot. En.=-0.73306E+02 M.sq.Dev= 0.10084E+02
+ Av. Shft.En.=-0.70358E+02 M.sq.Dev= 0.10146E+02
+ Av. Kin. En.= 0.28645E+03 M.sq.Dev= 0.10146E+02
+ Temperature = 0.28645E+01 M.sq.Dev= 0.10146E+00
+ Pressure    = 0.32403E+03 M.sq.Dev= 0.20609E+03
+
+ time =  0.30000E+00 Instant Kin.energy= 0.29230E+03 Pot.E = -0.76216E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.41363E-02
+ Av. Pot. En.=-0.72421E+02 M.sq.Dev= 0.10590E+02
+ Av. Shft.En.=-0.69436E+02 M.sq.Dev= 0.10652E+02
+ Av. Kin. En.= 0.28552E+03 M.sq.Dev= 0.10651E+02
+ Temperature = 0.28552E+01 M.sq.Dev= 0.10651E+00
+ Pressure    = 0.37671E+03 M.sq.Dev= 0.22333E+03
+
+ time =  0.35000E+00 Instant Kin.energy= 0.30809E+03 Pot.E = -0.92001E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.38789E-02
+ Av. Pot. En.=-0.74752E+02 M.sq.Dev= 0.11521E+02
+ Av. Shft.En.=-0.71742E+02 M.sq.Dev= 0.11538E+02
+ Av. Kin. En.= 0.28783E+03 M.sq.Dev= 0.11538E+02
+ Temperature = 0.28783E+01 M.sq.Dev= 0.11538E+00
+ Pressure    = 0.39735E+03 M.sq.Dev= 0.21326E+03
+
+ time =  0.40000E+00 Instant Kin.energy= 0.29617E+03 Pot.E = -0.80082E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.37395E-02
+ Av. Pot. En.=-0.76422E+02 M.sq.Dev= 0.11791E+02
+ Av. Shft.En.=-0.73396E+02 M.sq.Dev= 0.11791E+02
+ Av. Kin. En.= 0.28948E+03 M.sq.Dev= 0.11790E+02
+ Temperature = 0.28948E+01 M.sq.Dev= 0.11790E+00
+ Pressure    = 0.41305E+03 M.sq.Dev= 0.20409E+03
+
+ time =  0.45000E+00 Instant Kin.energy= 0.31076E+03 Pot.E = -0.94675E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.35582E-02
+ Av. Pot. En.=-0.78485E+02 M.sq.Dev= 0.12650E+02
+ Av. Shft.En.=-0.75445E+02 M.sq.Dev= 0.12630E+02
+ Av. Kin. En.= 0.29153E+03 M.sq.Dev= 0.12630E+02
+ Temperature = 0.29153E+01 M.sq.Dev= 0.12630E+00
+ Pressure    = 0.42114E+03 M.sq.Dev= 0.19397E+03
+
+ time =  0.50000E+00 Instant Kin.energy= 0.30014E+03 Pot.E = -0.84055E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.33980E-02
+ Av. Pot. En.=-0.79907E+02 M.sq.Dev= 0.12770E+02
+ Av. Shft.En.=-0.76855E+02 M.sq.Dev= 0.12740E+02
+ Av. Kin. En.= 0.29294E+03 M.sq.Dev= 0.12739E+02
+ Temperature = 0.29294E+01 M.sq.Dev= 0.12739E+00
+ Pressure    = 0.43174E+03 M.sq.Dev= 0.18701E+03
+
+ time =  0.55000E+00 Instant Kin.energy= 0.28180E+03 Pot.E = -0.65714E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.34329E-02
+ Av. Pot. En.=-0.78942E+02 M.sq.Dev= 0.12859E+02
+ Av. Shft.En.=-0.75879E+02 M.sq.Dev= 0.12841E+02
+ Av. Kin. En.= 0.29197E+03 M.sq.Dev= 0.12840E+02
+ Temperature = 0.29197E+01 M.sq.Dev= 0.12840E+00
+ Pressure    = 0.45722E+03 M.sq.Dev= 0.19656E+03
+
+ time =  0.60000E+00 Instant Kin.energy= 0.30539E+03 Pot.E = -0.89301E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.33898E-02
+ Av. Pot. En.=-0.79651E+02 M.sq.Dev= 0.12705E+02
+ Av. Shft.En.=-0.76579E+02 M.sq.Dev= 0.12684E+02
+ Av. Kin. En.= 0.29267E+03 M.sq.Dev= 0.12683E+02
+ Temperature = 0.29267E+01 M.sq.Dev= 0.12683E+00
+ Pressure    = 0.46795E+03 M.sq.Dev= 0.19218E+03
+
+ time =  0.65000E+00 Instant Kin.energy= 0.32049E+03 Pot.E = -0.10440E+03 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.32985E-02
+ Av. Pot. En.=-0.81298E+02 M.sq.Dev= 0.13529E+02
+ Av. Shft.En.=-0.78219E+02 M.sq.Dev= 0.13500E+02
+ Av. Kin. En.= 0.29431E+03 M.sq.Dev= 0.13500E+02
+ Temperature = 0.29431E+01 M.sq.Dev= 0.13500E+00
+ Pressure    = 0.46762E+03 M.sq.Dev= 0.18491E+03
+
+ time =  0.70000E+00 Instant Kin.energy= 0.31502E+03 Pot.E = -0.98933E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31860E-02
+ Av. Pot. En.=-0.83223E+02 M.sq.Dev= 0.14782E+02
+ Av. Shft.En.=-0.80138E+02 M.sq.Dev= 0.14747E+02
+ Av. Kin. En.= 0.29623E+03 M.sq.Dev= 0.14747E+02
+ Temperature = 0.29623E+01 M.sq.Dev= 0.14747E+00
+ Pressure    = 0.46387E+03 M.sq.Dev= 0.17878E+03
+
+ time =  0.75000E+00 Instant Kin.energy= 0.30237E+03 Pot.E = -0.86284E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31343E-02
+ Av. Pot. En.=-0.83565E+02 M.sq.Dev= 0.14415E+02
+ Av. Shft.En.=-0.80473E+02 M.sq.Dev= 0.14379E+02
+ Av. Kin. En.= 0.29656E+03 M.sq.Dev= 0.14379E+02
+ Temperature = 0.29656E+01 M.sq.Dev= 0.14379E+00
+ Pressure    = 0.47116E+03 M.sq.Dev= 0.17521E+03
+
+ time =  0.80000E+00 Instant Kin.energy= 0.30042E+03 Pot.E = -0.84329E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30765E-02
+ Av. Pot. En.=-0.83869E+02 M.sq.Dev= 0.14019E+02
+ Av. Shft.En.=-0.80769E+02 M.sq.Dev= 0.13982E+02
+ Av. Kin. En.= 0.29686E+03 M.sq.Dev= 0.13981E+02
+ Temperature = 0.29686E+01 M.sq.Dev= 0.13981E+00
+ Pressure    = 0.47831E+03 M.sq.Dev= 0.17192E+03
+
+ time =  0.85000E+00 Instant Kin.energy= 0.31173E+03 Pot.E = -0.95646E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30022E-02
+ Av. Pot. En.=-0.84700E+02 M.sq.Dev= 0.14046E+02
+ Av. Shft.En.=-0.81594E+02 M.sq.Dev= 0.14005E+02
+ Av. Kin. En.= 0.29768E+03 M.sq.Dev= 0.14004E+02
+ Temperature = 0.29768E+01 M.sq.Dev= 0.14004E+00
+ Pressure    = 0.48093E+03 M.sq.Dev= 0.16725E+03
+
+ time =  0.90000E+00 Instant Kin.energy= 0.30073E+03 Pot.E = -0.84655E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31888E-02
+ Av. Pot. En.=-0.85092E+02 M.sq.Dev= 0.13759E+02
+ Av. Shft.En.=-0.81978E+02 M.sq.Dev= 0.13716E+02
+ Av. Kin. En.= 0.29807E+03 M.sq.Dev= 0.13715E+02
+ Temperature = 0.29807E+01 M.sq.Dev= 0.13715E+00
+ Pressure    = 0.48663E+03 M.sq.Dev= 0.16431E+03
+
+ time =  0.95000E+00 Instant Kin.energy= 0.28807E+03 Pot.E = -0.71988E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.34728E-02
+ Av. Pot. En.=-0.84437E+02 M.sq.Dev= 0.13741E+02
+ Av. Shft.En.=-0.81314E+02 M.sq.Dev= 0.13707E+02
+ Av. Kin. En.= 0.29740E+03 M.sq.Dev= 0.13707E+02
+ Temperature = 0.29740E+01 M.sq.Dev= 0.13707E+00
+ Pressure    = 0.49986E+03 M.sq.Dev= 0.16968E+03
+
+ time =  0.10000E+01 Instant Kin.energy= 0.28041E+03 Pot.E = -0.64334E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.38849E-02
+ Av. Pot. En.=-0.82832E+02 M.sq.Dev= 0.15381E+02
+ Av. Shft.En.=-0.79702E+02 M.sq.Dev= 0.15367E+02
+ Av. Kin. En.= 0.29579E+03 M.sq.Dev= 0.15367E+02
+ Temperature = 0.29579E+01 M.sq.Dev= 0.15367E+00
+ Pressure    = 0.51871E+03 M.sq.Dev= 0.18552E+03
+
+ time =  0.10500E+01 Instant Kin.energy= 0.30512E+03 Pot.E = -0.89032E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.38789E-02
+ Av. Pot. En.=-0.82887E+02 M.sq.Dev= 0.15060E+02
+ Av. Shft.En.=-0.79749E+02 M.sq.Dev= 0.15046E+02
+ Av. Kin. En.= 0.29584E+03 M.sq.Dev= 0.15046E+02
+ Temperature = 0.29584E+01 M.sq.Dev= 0.15046E+00
+ Pressure    = 0.52453E+03 M.sq.Dev= 0.18328E+03
+
+ time =  0.11000E+01 Instant Kin.energy= 0.31452E+03 Pot.E = -0.98434E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.37932E-02
+ Av. Pot. En.=-0.83805E+02 M.sq.Dev= 0.15333E+02
+ Av. Shft.En.=-0.80661E+02 M.sq.Dev= 0.15312E+02
+ Av. Kin. En.= 0.29675E+03 M.sq.Dev= 0.15312E+02
+ Temperature = 0.29675E+01 M.sq.Dev= 0.15312E+00
+ Pressure    = 0.52223E+03 M.sq.Dev= 0.17952E+03
+
+ time =  0.11500E+01 Instant Kin.energy= 0.29200E+03 Pot.E = -0.75914E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.37336E-02
+ Av. Pot. En.=-0.83963E+02 M.sq.Dev= 0.15080E+02
+ Av. Shft.En.=-0.80813E+02 M.sq.Dev= 0.15059E+02
+ Av. Kin. En.= 0.29690E+03 M.sq.Dev= 0.15059E+02
+ Temperature = 0.29690E+01 M.sq.Dev= 0.15059E+00
+ Pressure    = 0.52452E+03 M.sq.Dev= 0.17618E+03
+
+ time =  0.12000E+01 Instant Kin.energy= 0.29029E+03 Pot.E = -0.74204E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.36658E-02
+ Av. Pot. En.=-0.83708E+02 M.sq.Dev= 0.14817E+02
+ Av. Shft.En.=-0.80553E+02 M.sq.Dev= 0.14799E+02
+ Av. Kin. En.= 0.29664E+03 M.sq.Dev= 0.14799E+02
+ Temperature = 0.29664E+01 M.sq.Dev= 0.14799E+00
+ Pressure    = 0.52889E+03 M.sq.Dev= 0.17374E+03
+
+ time =  0.12500E+01 Instant Kin.energy= 0.31054E+03 Pot.E = -0.94456E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.36181E-02
+ Av. Pot. En.=-0.83956E+02 M.sq.Dev= 0.14651E+02
+ Av. Shft.En.=-0.80796E+02 M.sq.Dev= 0.14632E+02
+ Av. Kin. En.= 0.29688E+03 M.sq.Dev= 0.14631E+02
+ Temperature = 0.29688E+01 M.sq.Dev= 0.14631E+00
+ Pressure    = 0.52846E+03 M.sq.Dev= 0.17061E+03
+
+ time =  0.13000E+01 Instant Kin.energy= 0.30129E+03 Pot.E = -0.85204E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.35562E-02
+ Av. Pot. En.=-0.84266E+02 M.sq.Dev= 0.14461E+02
+ Av. Shft.En.=-0.81103E+02 M.sq.Dev= 0.14441E+02
+ Av. Kin. En.= 0.29719E+03 M.sq.Dev= 0.14440E+02
+ Temperature = 0.29719E+01 M.sq.Dev= 0.14440E+00
+ Pressure    = 0.52696E+03 M.sq.Dev= 0.16749E+03
+
+ time =  0.13500E+01 Instant Kin.energy= 0.29166E+03 Pot.E = -0.75571E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.34980E-02
+ Av. Pot. En.=-0.84235E+02 M.sq.Dev= 0.14202E+02
+ Av. Shft.En.=-0.81068E+02 M.sq.Dev= 0.14182E+02
+ Av. Kin. En.= 0.29716E+03 M.sq.Dev= 0.14182E+02
+ Temperature = 0.29716E+01 M.sq.Dev= 0.14182E+00
+ Pressure    = 0.52741E+03 M.sq.Dev= 0.16441E+03
+
+ time =  0.14000E+01 Instant Kin.energy= 0.28449E+03 Pot.E = -0.68401E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.34884E-02
+ Av. Pot. En.=-0.84058E+02 M.sq.Dev= 0.13991E+02
+ Av. Shft.En.=-0.80888E+02 M.sq.Dev= 0.13972E+02
+ Av. Kin. En.= 0.29697E+03 M.sq.Dev= 0.13972E+02
+ Temperature = 0.29697E+01 M.sq.Dev= 0.13972E+00
+ Pressure    = 0.52875E+03 M.sq.Dev= 0.16163E+03
+
+ time =  0.14500E+01 Instant Kin.energy= 0.30440E+03 Pot.E = -0.88318E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.34944E-02
+ Av. Pot. En.=-0.84138E+02 M.sq.Dev= 0.13851E+02
+ Av. Shft.En.=-0.80966E+02 M.sq.Dev= 0.13832E+02
+ Av. Kin. En.= 0.29705E+03 M.sq.Dev= 0.13832E+02
+ Temperature = 0.29705E+01 M.sq.Dev= 0.13832E+00
+ Pressure    = 0.52796E+03 M.sq.Dev= 0.15924E+03
+
+ time =  0.15000E+01 Instant Kin.energy= 0.30555E+03 Pot.E = -0.89462E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.34847E-02
+ Av. Pot. En.=-0.84323E+02 M.sq.Dev= 0.13670E+02
+ Av. Shft.En.=-0.81150E+02 M.sq.Dev= 0.13652E+02
+ Av. Kin. En.= 0.29724E+03 M.sq.Dev= 0.13651E+02
+ Temperature = 0.29724E+01 M.sq.Dev= 0.13651E+00
+ Pressure    = 0.52670E+03 M.sq.Dev= 0.15673E+03
+
+ time =  0.15500E+01 Instant Kin.energy= 0.28920E+03 Pot.E = -0.73118E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.34528E-02
+ Av. Pot. En.=-0.84117E+02 M.sq.Dev= 0.13566E+02
+ Av. Shft.En.=-0.80942E+02 M.sq.Dev= 0.13549E+02
+ Av. Kin. En.= 0.29703E+03 M.sq.Dev= 0.13549E+02
+ Temperature = 0.29703E+01 M.sq.Dev= 0.13549E+00
+ Pressure    = 0.52917E+03 M.sq.Dev= 0.15510E+03
+
+ time =  0.16000E+01 Instant Kin.energy= 0.29926E+03 Pot.E = -0.83168E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.34161E-02
+ Av. Pot. En.=-0.84188E+02 M.sq.Dev= 0.13372E+02
+ Av. Shft.En.=-0.81012E+02 M.sq.Dev= 0.13355E+02
+ Av. Kin. En.= 0.29710E+03 M.sq.Dev= 0.13354E+02
+ Temperature = 0.29710E+01 M.sq.Dev= 0.13354E+00
+ Pressure    = 0.53002E+03 M.sq.Dev= 0.15279E+03
+
+ time =  0.16500E+01 Instant Kin.energy= 0.30593E+03 Pot.E = -0.89843E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.33710E-02
+ Av. Pot. En.=-0.84337E+02 M.sq.Dev= 0.13200E+02
+ Av. Shft.En.=-0.81160E+02 M.sq.Dev= 0.13183E+02
+ Av. Kin. En.= 0.29725E+03 M.sq.Dev= 0.13183E+02
+ Temperature = 0.29725E+01 M.sq.Dev= 0.13183E+00
+ Pressure    = 0.52957E+03 M.sq.Dev= 0.15053E+03
+
+ time =  0.17000E+01 Instant Kin.energy= 0.30689E+03 Pot.E = -0.90801E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.33246E-02
+ Av. Pot. En.=-0.84623E+02 M.sq.Dev= 0.13109E+02
+ Av. Shft.En.=-0.81444E+02 M.sq.Dev= 0.13090E+02
+ Av. Kin. En.= 0.29753E+03 M.sq.Dev= 0.13090E+02
+ Temperature = 0.29753E+01 M.sq.Dev= 0.13090E+00
+ Pressure    = 0.52726E+03 M.sq.Dev= 0.14891E+03
+
+ time =  0.17500E+01 Instant Kin.energy= 0.30836E+03 Pot.E = -0.92274E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.32979E-02
+ Av. Pot. En.=-0.84854E+02 M.sq.Dev= 0.12996E+02
+ Av. Shft.En.=-0.81672E+02 M.sq.Dev= 0.12977E+02
+ Av. Kin. En.= 0.29776E+03 M.sq.Dev= 0.12976E+02
+ Temperature = 0.29776E+01 M.sq.Dev= 0.12976E+00
+ Pressure    = 0.52475E+03 M.sq.Dev= 0.14752E+03
+
+ time =  0.18000E+01 Instant Kin.energy= 0.30130E+03 Pot.E = -0.85212E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.32668E-02
+ Av. Pot. En.=-0.84961E+02 M.sq.Dev= 0.12841E+02
+ Av. Shft.En.=-0.81777E+02 M.sq.Dev= 0.12821E+02
+ Av. Kin. En.= 0.29786E+03 M.sq.Dev= 0.12821E+02
+ Temperature = 0.29786E+01 M.sq.Dev= 0.12821E+00
+ Pressure    = 0.52315E+03 M.sq.Dev= 0.14580E+03
+
+ time =  0.18500E+01 Instant Kin.energy= 0.31234E+03 Pot.E = -0.96253E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.32650E-02
+ Av. Pot. En.=-0.85162E+02 M.sq.Dev= 0.12757E+02
+ Av. Shft.En.=-0.81978E+02 M.sq.Dev= 0.12737E+02
+ Av. Kin. En.= 0.29806E+03 M.sq.Dev= 0.12737E+02
+ Temperature = 0.29806E+01 M.sq.Dev= 0.12737E+00
+ Pressure    = 0.52052E+03 M.sq.Dev= 0.14485E+03
+
+ time =  0.19000E+01 Instant Kin.energy= 0.29967E+03 Pot.E = -0.83577E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.32520E-02
+ Av. Pot. En.=-0.85466E+02 M.sq.Dev= 0.12738E+02
+ Av. Shft.En.=-0.82280E+02 M.sq.Dev= 0.12717E+02
+ Av. Kin. En.= 0.29837E+03 M.sq.Dev= 0.12717E+02
+ Temperature = 0.29837E+01 M.sq.Dev= 0.12717E+00
+ Pressure    = 0.51694E+03 M.sq.Dev= 0.14464E+03
+
+ time =  0.19500E+01 Instant Kin.energy= 0.28731E+03 Pot.E = -0.71229E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.32445E-02
+ Av. Pot. En.=-0.85382E+02 M.sq.Dev= 0.12591E+02
+ Av. Shft.En.=-0.82194E+02 M.sq.Dev= 0.12571E+02
+ Av. Kin. En.= 0.29828E+03 M.sq.Dev= 0.12571E+02
+ Temperature = 0.29828E+01 M.sq.Dev= 0.12571E+00
+ Pressure    = 0.51660E+03 M.sq.Dev= 0.14286E+03
+
+ time =  0.20000E+01 Instant Kin.energy= 0.29052E+03 Pot.E = -0.74437E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.32315E-02
+ Av. Pot. En.=-0.84981E+02 M.sq.Dev= 0.12699E+02
+ Av. Shft.En.=-0.81790E+02 M.sq.Dev= 0.12683E+02
+ Av. Kin. En.= 0.29788E+03 M.sq.Dev= 0.12682E+02
+ Temperature = 0.29788E+01 M.sq.Dev= 0.12682E+00
+ Pressure    = 0.51916E+03 M.sq.Dev= 0.14200E+03
+
+ time =  0.20500E+01 Instant Kin.energy= 0.29775E+03 Pot.E = -0.81662E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31960E-02
+ Av. Pot. En.=-0.84999E+02 M.sq.Dev= 0.12552E+02
+ Av. Shft.En.=-0.81806E+02 M.sq.Dev= 0.12536E+02
+ Av. Kin. En.= 0.29789E+03 M.sq.Dev= 0.12535E+02
+ Temperature = 0.29789E+01 M.sq.Dev= 0.12535E+00
+ Pressure    = 0.51936E+03 M.sq.Dev= 0.14029E+03
+
+ time =  0.21000E+01 Instant Kin.energy= 0.28866E+03 Pot.E = -0.72571E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31599E-02
+ Av. Pot. En.=-0.84846E+02 M.sq.Dev= 0.12447E+02
+ Av. Shft.En.=-0.81652E+02 M.sq.Dev= 0.12432E+02
+ Av. Kin. En.= 0.29774E+03 M.sq.Dev= 0.12431E+02
+ Temperature = 0.29774E+01 M.sq.Dev= 0.12431E+00
+ Pressure    = 0.52044E+03 M.sq.Dev= 0.13880E+03
+
+ time =  0.21500E+01 Instant Kin.energy= 0.30114E+03 Pot.E = -0.85053E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31321E-02
+ Av. Pot. En.=-0.84733E+02 M.sq.Dev= 0.12344E+02
+ Av. Shft.En.=-0.81539E+02 M.sq.Dev= 0.12329E+02
+ Av. Kin. En.= 0.29763E+03 M.sq.Dev= 0.12329E+02
+ Temperature = 0.29763E+01 M.sq.Dev= 0.12329E+00
+ Pressure    = 0.52088E+03 M.sq.Dev= 0.13731E+03
+
+ time =  0.22000E+01 Instant Kin.energy= 0.30790E+03 Pot.E = -0.91807E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31121E-02
+ Av. Pot. En.=-0.84869E+02 M.sq.Dev= 0.12241E+02
+ Av. Shft.En.=-0.81673E+02 M.sq.Dev= 0.12225E+02
+ Av. Kin. En.= 0.29776E+03 M.sq.Dev= 0.12225E+02
+ Temperature = 0.29776E+01 M.sq.Dev= 0.12225E+00
+ Pressure    = 0.51941E+03 M.sq.Dev= 0.13610E+03
+
+ time =  0.22500E+01 Instant Kin.energy= 0.28146E+03 Pot.E = -0.65373E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30873E-02
+ Av. Pot. En.=-0.84860E+02 M.sq.Dev= 0.12186E+02
+ Av. Shft.En.=-0.81664E+02 M.sq.Dev= 0.12170E+02
+ Av. Kin. En.= 0.29775E+03 M.sq.Dev= 0.12170E+02
+ Temperature = 0.29775E+01 M.sq.Dev= 0.12170E+00
+ Pressure    = 0.51904E+03 M.sq.Dev= 0.13493E+03
+
+ time =  0.23000E+01 Instant Kin.energy= 0.30279E+03 Pot.E = -0.86705E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30666E-02
+ Av. Pot. En.=-0.84736E+02 M.sq.Dev= 0.12137E+02
+ Av. Shft.En.=-0.81538E+02 M.sq.Dev= 0.12122E+02
+ Av. Kin. En.= 0.29763E+03 M.sq.Dev= 0.12122E+02
+ Temperature = 0.29763E+01 M.sq.Dev= 0.12122E+00
+ Pressure    = 0.51940E+03 M.sq.Dev= 0.13370E+03
+
+ time =  0.23500E+01 Instant Kin.energy= 0.29305E+03 Pot.E = -0.76967E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30414E-02
+ Av. Pot. En.=-0.84699E+02 M.sq.Dev= 0.12027E+02
+ Av. Shft.En.=-0.81499E+02 M.sq.Dev= 0.12013E+02
+ Av. Kin. En.= 0.29759E+03 M.sq.Dev= 0.12013E+02
+ Temperature = 0.29759E+01 M.sq.Dev= 0.12013E+00
+ Pressure    = 0.51936E+03 M.sq.Dev= 0.13236E+03
+
+ time =  0.24000E+01 Instant Kin.energy= 0.29916E+03 Pot.E = -0.83069E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30125E-02
+ Av. Pot. En.=-0.84744E+02 M.sq.Dev= 0.11912E+02
+ Av. Shft.En.=-0.81543E+02 M.sq.Dev= 0.11898E+02
+ Av. Kin. En.= 0.29763E+03 M.sq.Dev= 0.11897E+02
+ Temperature = 0.29763E+01 M.sq.Dev= 0.11897E+00
+ Pressure    = 0.51900E+03 M.sq.Dev= 0.13102E+03
+
+ time =  0.24500E+01 Instant Kin.energy= 0.30802E+03 Pot.E = -0.91933E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30018E-02
+ Av. Pot. En.=-0.84799E+02 M.sq.Dev= 0.11815E+02
+ Av. Shft.En.=-0.81599E+02 M.sq.Dev= 0.11801E+02
+ Av. Kin. En.= 0.29769E+03 M.sq.Dev= 0.11800E+02
+ Temperature = 0.29769E+01 M.sq.Dev= 0.11800E+00
+ Pressure    = 0.51836E+03 M.sq.Dev= 0.12983E+03
+
+ time =  0.25000E+01 Instant Kin.energy= 0.29088E+03 Pot.E = -0.74784E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.29831E-02
+ Av. Pot. En.=-0.84843E+02 M.sq.Dev= 0.11736E+02
+ Av. Shft.En.=-0.81641E+02 M.sq.Dev= 0.11722E+02
+ Av. Kin. En.= 0.29773E+03 M.sq.Dev= 0.11721E+02
+ Temperature = 0.29773E+01 M.sq.Dev= 0.11721E+00
+ Pressure    = 0.51788E+03 M.sq.Dev= 0.12871E+03
+
+ time =  0.25500E+01 Instant Kin.energy= 0.29382E+03 Pot.E = -0.77735E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.29869E-02
+ Av. Pot. En.=-0.84792E+02 M.sq.Dev= 0.11631E+02
+ Av. Shft.En.=-0.81591E+02 M.sq.Dev= 0.11617E+02
+ Av. Kin. En.= 0.29768E+03 M.sq.Dev= 0.11617E+02
+ Temperature = 0.29768E+01 M.sq.Dev= 0.11617E+00
+ Pressure    = 0.51809E+03 M.sq.Dev= 0.12747E+03
+
+ time =  0.26000E+01 Instant Kin.energy= 0.30212E+03 Pot.E = -0.86032E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.29644E-02
+ Av. Pot. En.=-0.84858E+02 M.sq.Dev= 0.11533E+02
+ Av. Shft.En.=-0.81657E+02 M.sq.Dev= 0.11519E+02
+ Av. Kin. En.= 0.29774E+03 M.sq.Dev= 0.11519E+02
+ Temperature = 0.29774E+01 M.sq.Dev= 0.11519E+00
+ Pressure    = 0.51771E+03 M.sq.Dev= 0.12627E+03
+
+ time =  0.26500E+01 Instant Kin.energy= 0.29674E+03 Pot.E = -0.80648E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.29614E-02
+ Av. Pot. En.=-0.84806E+02 M.sq.Dev= 0.11442E+02
+ Av. Shft.En.=-0.81605E+02 M.sq.Dev= 0.11428E+02
+ Av. Kin. En.= 0.29769E+03 M.sq.Dev= 0.11428E+02
+ Temperature = 0.29769E+01 M.sq.Dev= 0.11428E+00
+ Pressure    = 0.51855E+03 M.sq.Dev= 0.12529E+03
+
+ time =  0.27000E+01 Instant Kin.energy= 0.28761E+03 Pot.E = -0.71537E+02 Total =  0.21607E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31385E-02
+ Av. Pot. En.=-0.84727E+02 M.sq.Dev= 0.11419E+02
+ Av. Shft.En.=-0.81526E+02 M.sq.Dev= 0.11405E+02
+ Av. Kin. En.= 0.29761E+03 M.sq.Dev= 0.11405E+02
+ Temperature = 0.29761E+01 M.sq.Dev= 0.11405E+00
+ Pressure    = 0.52031E+03 M.sq.Dev= 0.12511E+03
+
+ time =  0.27500E+01 Instant Kin.energy= 0.31249E+03 Pot.E = -0.96403E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.32107E-02
+ Av. Pot. En.=-0.84713E+02 M.sq.Dev= 0.11373E+02
+ Av. Shft.En.=-0.81514E+02 M.sq.Dev= 0.11360E+02
+ Av. Kin. En.= 0.29760E+03 M.sq.Dev= 0.11359E+02
+ Temperature = 0.29760E+01 M.sq.Dev= 0.11359E+00
+ Pressure    = 0.52182E+03 M.sq.Dev= 0.12471E+03
+
+ time =  0.28000E+01 Instant Kin.energy= 0.30181E+03 Pot.E = -0.85724E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31975E-02
+ Av. Pot. En.=-0.84872E+02 M.sq.Dev= 0.11345E+02
+ Av. Shft.En.=-0.81672E+02 M.sq.Dev= 0.11332E+02
+ Av. Kin. En.= 0.29776E+03 M.sq.Dev= 0.11332E+02
+ Temperature = 0.29776E+01 M.sq.Dev= 0.11332E+00
+ Pressure    = 0.52175E+03 M.sq.Dev= 0.12361E+03
+
+ time =  0.28500E+01 Instant Kin.energy= 0.31115E+03 Pot.E = -0.95060E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31923E-02
+ Av. Pot. En.=-0.84958E+02 M.sq.Dev= 0.11275E+02
+ Av. Shft.En.=-0.81759E+02 M.sq.Dev= 0.11262E+02
+ Av. Kin. En.= 0.29785E+03 M.sq.Dev= 0.11262E+02
+ Temperature = 0.29785E+01 M.sq.Dev= 0.11262E+00
+ Pressure    = 0.52159E+03 M.sq.Dev= 0.12261E+03
+
+ time =  0.29000E+01 Instant Kin.energy= 0.31609E+03 Pot.E = -0.10000E+03 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31740E-02
+ Av. Pot. En.=-0.85285E+02 M.sq.Dev= 0.11450E+02
+ Av. Shft.En.=-0.82086E+02 M.sq.Dev= 0.11438E+02
+ Av. Kin. En.= 0.29817E+03 M.sq.Dev= 0.11438E+02
+ Temperature = 0.29817E+01 M.sq.Dev= 0.11438E+00
+ Pressure    = 0.51941E+03 M.sq.Dev= 0.12268E+03
+
+ time =  0.29500E+01 Instant Kin.energy= 0.30214E+03 Pot.E = -0.86052E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31969E-02
+ Av. Pot. En.=-0.85286E+02 M.sq.Dev= 0.11410E+02
+ Av. Shft.En.=-0.82086E+02 M.sq.Dev= 0.11398E+02
+ Av. Kin. En.= 0.29817E+03 M.sq.Dev= 0.11398E+02
+ Temperature = 0.29817E+01 M.sq.Dev= 0.11398E+00
+ Pressure    = 0.51922E+03 M.sq.Dev= 0.12184E+03
+
+ time =  0.30000E+01 Instant Kin.energy= 0.29916E+03 Pot.E = -0.83071E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31802E-02
+ Av. Pot. En.=-0.85442E+02 M.sq.Dev= 0.11390E+02
+ Av. Shft.En.=-0.82241E+02 M.sq.Dev= 0.11377E+02
+ Av. Kin. En.= 0.29833E+03 M.sq.Dev= 0.11377E+02
+ Temperature = 0.29833E+01 M.sq.Dev= 0.11377E+00
+ Pressure    = 0.51794E+03 M.sq.Dev= 0.12126E+03
+
+ time =  0.30500E+01 Instant Kin.energy= 0.31145E+03 Pot.E = -0.95360E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31783E-02
+ Av. Pot. En.=-0.85581E+02 M.sq.Dev= 0.11369E+02
+ Av. Shft.En.=-0.82379E+02 M.sq.Dev= 0.11356E+02
+ Av. Kin. En.= 0.29847E+03 M.sq.Dev= 0.11356E+02
+ Temperature = 0.29847E+01 M.sq.Dev= 0.11356E+00
+ Pressure    = 0.51674E+03 M.sq.Dev= 0.12069E+03
+
+ time =  0.31000E+01 Instant Kin.energy= 0.28978E+03 Pot.E = -0.73694E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31595E-02
+ Av. Pot. En.=-0.85614E+02 M.sq.Dev= 0.11313E+02
+ Av. Shft.En.=-0.82412E+02 M.sq.Dev= 0.11300E+02
+ Av. Kin. En.= 0.29850E+03 M.sq.Dev= 0.11300E+02
+ Temperature = 0.29850E+01 M.sq.Dev= 0.11300E+00
+ Pressure    = 0.51645E+03 M.sq.Dev= 0.11989E+03
+
+ time =  0.31500E+01 Instant Kin.energy= 0.30061E+03 Pot.E = -0.84520E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31496E-02
+ Av. Pot. En.=-0.85457E+02 M.sq.Dev= 0.11305E+02
+ Av. Shft.En.=-0.82255E+02 M.sq.Dev= 0.11292E+02
+ Av. Kin. En.= 0.29834E+03 M.sq.Dev= 0.11292E+02
+ Temperature = 0.29834E+01 M.sq.Dev= 0.11292E+00
+ Pressure    = 0.51729E+03 M.sq.Dev= 0.11921E+03
+
+ time =  0.32000E+01 Instant Kin.energy= 0.31034E+03 Pot.E = -0.94247E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31369E-02
+ Av. Pot. En.=-0.85639E+02 M.sq.Dev= 0.11313E+02
+ Av. Shft.En.=-0.82436E+02 M.sq.Dev= 0.11300E+02
+ Av. Kin. En.= 0.29852E+03 M.sq.Dev= 0.11300E+02
+ Temperature = 0.29852E+01 M.sq.Dev= 0.11300E+00
+ Pressure    = 0.51532E+03 M.sq.Dev= 0.11934E+03
+
+ time =  0.32500E+01 Instant Kin.energy= 0.30273E+03 Pot.E = -0.86644E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31364E-02
+ Av. Pot. En.=-0.85778E+02 M.sq.Dev= 0.11293E+02
+ Av. Shft.En.=-0.82575E+02 M.sq.Dev= 0.11280E+02
+ Av. Kin. En.= 0.29866E+03 M.sq.Dev= 0.11280E+02
+ Temperature = 0.29866E+01 M.sq.Dev= 0.11280E+00
+ Pressure    = 0.51361E+03 M.sq.Dev= 0.11928E+03
+
+ time =  0.33000E+01 Instant Kin.energy= 0.28915E+03 Pot.E = -0.73058E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31167E-02
+ Av. Pot. En.=-0.85825E+02 M.sq.Dev= 0.11236E+02
+ Av. Shft.En.=-0.82623E+02 M.sq.Dev= 0.11224E+02
+ Av. Kin. En.= 0.29871E+03 M.sq.Dev= 0.11223E+02
+ Temperature = 0.29871E+01 M.sq.Dev= 0.11223E+00
+ Pressure    = 0.51337E+03 M.sq.Dev= 0.11858E+03
+
+ time =  0.33500E+01 Instant Kin.energy= 0.28908E+03 Pot.E = -0.72995E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30992E-02
+ Av. Pot. En.=-0.85597E+02 M.sq.Dev= 0.11312E+02
+ Av. Shft.En.=-0.82394E+02 M.sq.Dev= 0.11300E+02
+ Av. Kin. En.= 0.29848E+03 M.sq.Dev= 0.11300E+02
+ Temperature = 0.29848E+01 M.sq.Dev= 0.11300E+00
+ Pressure    = 0.51551E+03 M.sq.Dev= 0.11900E+03
+
+ time =  0.34000E+01 Instant Kin.energy= 0.30025E+03 Pot.E = -0.84163E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30917E-02
+ Av. Pot. En.=-0.85578E+02 M.sq.Dev= 0.11247E+02
+ Av. Shft.En.=-0.82375E+02 M.sq.Dev= 0.11235E+02
+ Av. Kin. En.= 0.29846E+03 M.sq.Dev= 0.11235E+02
+ Temperature = 0.29846E+01 M.sq.Dev= 0.11235E+00
+ Pressure    = 0.51576E+03 M.sq.Dev= 0.11827E+03
+
+ time =  0.34500E+01 Instant Kin.energy= 0.28515E+03 Pot.E = -0.69063E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31094E-02
+ Av. Pot. En.=-0.85500E+02 M.sq.Dev= 0.11190E+02
+ Av. Shft.En.=-0.82297E+02 M.sq.Dev= 0.11178E+02
+ Av. Kin. En.= 0.29838E+03 M.sq.Dev= 0.11178E+02
+ Temperature = 0.29838E+01 M.sq.Dev= 0.11178E+00
+ Pressure    = 0.51602E+03 M.sq.Dev= 0.11745E+03
+
+ time =  0.35000E+01 Instant Kin.energy= 0.31002E+03 Pot.E = -0.93936E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31410E-02
+ Av. Pot. En.=-0.85384E+02 M.sq.Dev= 0.11243E+02
+ Av. Shft.En.=-0.82180E+02 M.sq.Dev= 0.11232E+02
+ Av. Kin. En.= 0.29827E+03 M.sq.Dev= 0.11231E+02
+ Temperature = 0.29827E+01 M.sq.Dev= 0.11231E+00
+ Pressure    = 0.51634E+03 M.sq.Dev= 0.11701E+03
+
+ time =  0.35500E+01 Instant Kin.energy= 0.30903E+03 Pot.E = -0.92943E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31338E-02
+ Av. Pot. En.=-0.85505E+02 M.sq.Dev= 0.11211E+02
+ Av. Shft.En.=-0.82300E+02 M.sq.Dev= 0.11200E+02
+ Av. Kin. En.= 0.29839E+03 M.sq.Dev= 0.11199E+02
+ Temperature = 0.29839E+01 M.sq.Dev= 0.11199E+00
+ Pressure    = 0.51496E+03 M.sq.Dev= 0.11677E+03
+
+ time =  0.36000E+01 Instant Kin.energy= 0.31408E+03 Pot.E = -0.97995E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31246E-02
+ Av. Pot. En.=-0.85677E+02 M.sq.Dev= 0.11230E+02
+ Av. Shft.En.=-0.82471E+02 M.sq.Dev= 0.11218E+02
+ Av. Kin. En.= 0.29856E+03 M.sq.Dev= 0.11218E+02
+ Temperature = 0.29856E+01 M.sq.Dev= 0.11218E+00
+ Pressure    = 0.51337E+03 M.sq.Dev= 0.11673E+03
+
+ time =  0.36500E+01 Instant Kin.energy= 0.27431E+03 Pot.E = -0.58225E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31389E-02
+ Av. Pot. En.=-0.85583E+02 M.sq.Dev= 0.11330E+02
+ Av. Shft.En.=-0.82377E+02 M.sq.Dev= 0.11319E+02
+ Av. Kin. En.= 0.29846E+03 M.sq.Dev= 0.11319E+02
+ Temperature = 0.29846E+01 M.sq.Dev= 0.11319E+00
+ Pressure    = 0.51400E+03 M.sq.Dev= 0.11673E+03
+
+ time =  0.37000E+01 Instant Kin.energy= 0.30127E+03 Pot.E = -0.85179E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31254E-02
+ Av. Pot. En.=-0.85531E+02 M.sq.Dev= 0.11310E+02
+ Av. Shft.En.=-0.82324E+02 M.sq.Dev= 0.11299E+02
+ Av. Kin. En.= 0.29841E+03 M.sq.Dev= 0.11299E+02
+ Temperature = 0.29841E+01 M.sq.Dev= 0.11299E+00
+ Pressure    = 0.51458E+03 M.sq.Dev= 0.11623E+03
+
+ time =  0.37500E+01 Instant Kin.energy= 0.31260E+03 Pot.E = -0.96517E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31196E-02
+ Av. Pot. En.=-0.85629E+02 M.sq.Dev= 0.11280E+02
+ Av. Shft.En.=-0.82422E+02 M.sq.Dev= 0.11270E+02
+ Av. Kin. En.= 0.29851E+03 M.sq.Dev= 0.11269E+02
+ Temperature = 0.29851E+01 M.sq.Dev= 0.11269E+00
+ Pressure    = 0.51422E+03 M.sq.Dev= 0.11554E+03
+
+ time =  0.38000E+01 Instant Kin.energy= 0.30377E+03 Pot.E = -0.87688E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31147E-02
+ Av. Pot. En.=-0.85679E+02 M.sq.Dev= 0.11228E+02
+ Av. Shft.En.=-0.82472E+02 M.sq.Dev= 0.11218E+02
+ Av. Kin. En.= 0.29856E+03 M.sq.Dev= 0.11217E+02
+ Temperature = 0.29856E+01 M.sq.Dev= 0.11217E+00
+ Pressure    = 0.51436E+03 M.sq.Dev= 0.11484E+03
+
+ time =  0.38500E+01 Instant Kin.energy= 0.30076E+03 Pot.E = -0.84678E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31010E-02
+ Av. Pot. En.=-0.85788E+02 M.sq.Dev= 0.11201E+02
+ Av. Shft.En.=-0.82581E+02 M.sq.Dev= 0.11190E+02
+ Av. Kin. En.= 0.29867E+03 M.sq.Dev= 0.11190E+02
+ Temperature = 0.29867E+01 M.sq.Dev= 0.11190E+00
+ Pressure    = 0.51415E+03 M.sq.Dev= 0.11413E+03
+
+ time =  0.39000E+01 Instant Kin.energy= 0.28648E+03 Pot.E = -0.70386E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30993E-02
+ Av. Pot. En.=-0.85740E+02 M.sq.Dev= 0.11148E+02
+ Av. Shft.En.=-0.82533E+02 M.sq.Dev= 0.11138E+02
+ Av. Kin. En.= 0.29862E+03 M.sq.Dev= 0.11138E+02
+ Temperature = 0.29862E+01 M.sq.Dev= 0.11138E+00
+ Pressure    = 0.51516E+03 M.sq.Dev= 0.11381E+03
+
+ time =  0.39500E+01 Instant Kin.energy= 0.31795E+03 Pot.E = -0.10187E+03 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30941E-02
+ Av. Pot. En.=-0.85806E+02 M.sq.Dev= 0.11167E+02
+ Av. Shft.En.=-0.82598E+02 M.sq.Dev= 0.11157E+02
+ Av. Kin. En.= 0.29869E+03 M.sq.Dev= 0.11156E+02
+ Temperature = 0.29869E+01 M.sq.Dev= 0.11156E+00
+ Pressure    = 0.51549E+03 M.sq.Dev= 0.11345E+03
+
+ time =  0.40000E+01 Instant Kin.energy= 0.30832E+03 Pot.E = -0.92234E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31193E-02
+ Av. Pot. En.=-0.85893E+02 M.sq.Dev= 0.11144E+02
+ Av. Shft.En.=-0.82684E+02 M.sq.Dev= 0.11134E+02
+ Av. Kin. En.= 0.29877E+03 M.sq.Dev= 0.11133E+02
+ Temperature = 0.29877E+01 M.sq.Dev= 0.11133E+00
+ Pressure    = 0.51547E+03 M.sq.Dev= 0.11280E+03
+
+ time =  0.40500E+01 Instant Kin.energy= 0.28700E+03 Pot.E = -0.70910E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31200E-02
+ Av. Pot. En.=-0.85911E+02 M.sq.Dev= 0.11092E+02
+ Av. Shft.En.=-0.82702E+02 M.sq.Dev= 0.11082E+02
+ Av. Kin. En.= 0.29879E+03 M.sq.Dev= 0.11081E+02
+ Temperature = 0.29879E+01 M.sq.Dev= 0.11081E+00
+ Pressure    = 0.51592E+03 M.sq.Dev= 0.11224E+03
+
+ time =  0.41000E+01 Instant Kin.energy= 0.30465E+03 Pot.E = -0.88566E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31112E-02
+ Av. Pot. En.=-0.85819E+02 M.sq.Dev= 0.11086E+02
+ Av. Shft.En.=-0.82610E+02 M.sq.Dev= 0.11075E+02
+ Av. Kin. En.= 0.29870E+03 M.sq.Dev= 0.11074E+02
+ Temperature = 0.29870E+01 M.sq.Dev= 0.11074E+00
+ Pressure    = 0.51678E+03 M.sq.Dev= 0.11201E+03
+
+ time =  0.41500E+01 Instant Kin.energy= 0.29990E+03 Pot.E = -0.83811E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31013E-02
+ Av. Pot. En.=-0.85923E+02 M.sq.Dev= 0.11064E+02
+ Av. Shft.En.=-0.82714E+02 M.sq.Dev= 0.11053E+02
+ Av. Kin. En.= 0.29880E+03 M.sq.Dev= 0.11053E+02
+ Temperature = 0.29880E+01 M.sq.Dev= 0.11053E+00
+ Pressure    = 0.51585E+03 M.sq.Dev= 0.11167E+03
+
+ time =  0.42000E+01 Instant Kin.energy= 0.30104E+03 Pot.E = -0.84954E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31045E-02
+ Av. Pot. En.=-0.85944E+02 M.sq.Dev= 0.11001E+02
+ Av. Shft.En.=-0.82735E+02 M.sq.Dev= 0.10990E+02
+ Av. Kin. En.= 0.29882E+03 M.sq.Dev= 0.10990E+02
+ Temperature = 0.29882E+01 M.sq.Dev= 0.10990E+00
+ Pressure    = 0.51532E+03 M.sq.Dev= 0.11111E+03
+
+ time =  0.42500E+01 Instant Kin.energy= 0.29529E+03 Pot.E = -0.79204E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30938E-02
+ Av. Pot. En.=-0.85962E+02 M.sq.Dev= 0.10944E+02
+ Av. Shft.En.=-0.82753E+02 M.sq.Dev= 0.10934E+02
+ Av. Kin. En.= 0.29884E+03 M.sq.Dev= 0.10933E+02
+ Temperature = 0.29884E+01 M.sq.Dev= 0.10933E+00
+ Pressure    = 0.51502E+03 M.sq.Dev= 0.11053E+03
+
+ time =  0.43000E+01 Instant Kin.energy= 0.30036E+03 Pot.E = -0.84271E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30862E-02
+ Av. Pot. En.=-0.85925E+02 M.sq.Dev= 0.10892E+02
+ Av. Shft.En.=-0.82715E+02 M.sq.Dev= 0.10881E+02
+ Av. Kin. En.= 0.29880E+03 M.sq.Dev= 0.10881E+02
+ Temperature = 0.29880E+01 M.sq.Dev= 0.10881E+00
+ Pressure    = 0.51524E+03 M.sq.Dev= 0.10993E+03
+
+ time =  0.43500E+01 Instant Kin.energy= 0.30633E+03 Pot.E = -0.90242E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30784E-02
+ Av. Pot. En.=-0.85944E+02 M.sq.Dev= 0.10834E+02
+ Av. Shft.En.=-0.82734E+02 M.sq.Dev= 0.10824E+02
+ Av. Kin. En.= 0.29882E+03 M.sq.Dev= 0.10823E+02
+ Temperature = 0.29882E+01 M.sq.Dev= 0.10823E+00
+ Pressure    = 0.51488E+03 M.sq.Dev= 0.10938E+03
+
+ time =  0.44000E+01 Instant Kin.energy= 0.31771E+03 Pot.E = -0.10162E+03 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30683E-02
+ Av. Pot. En.=-0.86133E+02 M.sq.Dev= 0.10926E+02
+ Av. Shft.En.=-0.82923E+02 M.sq.Dev= 0.10916E+02
+ Av. Kin. En.= 0.29901E+03 M.sq.Dev= 0.10916E+02
+ Temperature = 0.29901E+01 M.sq.Dev= 0.10916E+00
+ Pressure    = 0.51312E+03 M.sq.Dev= 0.11005E+03
+
+ time =  0.44500E+01 Instant Kin.energy= 0.30400E+03 Pot.E = -0.87916E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.30682E-02
+ Av. Pot. En.=-0.86270E+02 M.sq.Dev= 0.10944E+02
+ Av. Shft.En.=-0.83059E+02 M.sq.Dev= 0.10934E+02
+ Av. Kin. En.= 0.29915E+03 M.sq.Dev= 0.10933E+02
+ Temperature = 0.29915E+01 M.sq.Dev= 0.10933E+00
+ Pressure    = 0.51187E+03 M.sq.Dev= 0.11010E+03
+
+ time =  0.45000E+01 Instant Kin.energy= 0.29453E+03 Pot.E = -0.78433E+02 Total =  0.21610E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31205E-02
+ Av. Pot. En.=-0.86171E+02 M.sq.Dev= 0.10938E+02
+ Av. Shft.En.=-0.82960E+02 M.sq.Dev= 0.10928E+02
+ Av. Kin. En.= 0.29905E+03 M.sq.Dev= 0.10928E+02
+ Temperature = 0.29905E+01 M.sq.Dev= 0.10928E+00
+ Pressure    = 0.51233E+03 M.sq.Dev= 0.10963E+03
+
+ time =  0.45500E+01 Instant Kin.energy= 0.30338E+03 Pot.E = -0.87291E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31457E-02
+ Av. Pot. En.=-0.86304E+02 M.sq.Dev= 0.10975E+02
+ Av. Shft.En.=-0.83093E+02 M.sq.Dev= 0.10964E+02
+ Av. Kin. En.= 0.29918E+03 M.sq.Dev= 0.10964E+02
+ Temperature = 0.29918E+01 M.sq.Dev= 0.10964E+00
+ Pressure    = 0.51125E+03 M.sq.Dev= 0.10961E+03
+
+ time =  0.46000E+01 Instant Kin.energy= 0.30182E+03 Pot.E = -0.85735E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31416E-02
+ Av. Pot. En.=-0.86280E+02 M.sq.Dev= 0.10923E+02
+ Av. Shft.En.=-0.83068E+02 M.sq.Dev= 0.10913E+02
+ Av. Kin. En.= 0.29916E+03 M.sq.Dev= 0.10912E+02
+ Temperature = 0.29916E+01 M.sq.Dev= 0.10912E+00
+ Pressure    = 0.51137E+03 M.sq.Dev= 0.10904E+03
+
+ time =  0.46500E+01 Instant Kin.energy= 0.30690E+03 Pot.E = -0.90813E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31279E-02
+ Av. Pot. En.=-0.86322E+02 M.sq.Dev= 0.10872E+02
+ Av. Shft.En.=-0.83110E+02 M.sq.Dev= 0.10862E+02
+ Av. Kin. En.= 0.29920E+03 M.sq.Dev= 0.10862E+02
+ Temperature = 0.29920E+01 M.sq.Dev= 0.10862E+00
+ Pressure    = 0.51130E+03 M.sq.Dev= 0.10846E+03
+
+ time =  0.47000E+01 Instant Kin.energy= 0.28045E+03 Pot.E = -0.64361E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31196E-02
+ Av. Pot. En.=-0.86335E+02 M.sq.Dev= 0.10858E+02
+ Av. Shft.En.=-0.83123E+02 M.sq.Dev= 0.10848E+02
+ Av. Kin. En.= 0.29921E+03 M.sq.Dev= 0.10848E+02
+ Temperature = 0.29921E+01 M.sq.Dev= 0.10848E+00
+ Pressure    = 0.51174E+03 M.sq.Dev= 0.10820E+03
+
+ time =  0.47500E+01 Instant Kin.energy= 0.30665E+03 Pot.E = -0.90569E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31490E-02
+ Av. Pot. En.=-0.86104E+02 M.sq.Dev= 0.11113E+02
+ Av. Shft.En.=-0.82891E+02 M.sq.Dev= 0.11104E+02
+ Av. Kin. En.= 0.29898E+03 M.sq.Dev= 0.11104E+02
+ Temperature = 0.29898E+01 M.sq.Dev= 0.11104E+00
+ Pressure    = 0.51375E+03 M.sq.Dev= 0.10978E+03
+
+ time =  0.48000E+01 Instant Kin.energy= 0.30994E+03 Pot.E = -0.93860E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31406E-02
+ Av. Pot. En.=-0.86287E+02 M.sq.Dev= 0.11202E+02
+ Av. Shft.En.=-0.83073E+02 M.sq.Dev= 0.11193E+02
+ Av. Kin. En.= 0.29916E+03 M.sq.Dev= 0.11193E+02
+ Temperature = 0.29916E+01 M.sq.Dev= 0.11193E+00
+ Pressure    = 0.51263E+03 M.sq.Dev= 0.10979E+03
+
+ time =  0.48500E+01 Instant Kin.energy= 0.31113E+03 Pot.E = -0.95045E+02 Total =  0.21608E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.32200E-02
+ Av. Pot. En.=-0.86265E+02 M.sq.Dev= 0.11193E+02
+ Av. Shft.En.=-0.83050E+02 M.sq.Dev= 0.11185E+02
+ Av. Kin. En.= 0.29914E+03 M.sq.Dev= 0.11184E+02
+ Temperature = 0.29914E+01 M.sq.Dev= 0.11184E+00
+ Pressure    = 0.51271E+03 M.sq.Dev= 0.10938E+03
+
+ time =  0.49000E+01 Instant Kin.energy= 0.30410E+03 Pot.E = -0.88017E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.32118E-02
+ Av. Pot. En.=-0.86300E+02 M.sq.Dev= 0.11151E+02
+ Av. Shft.En.=-0.83085E+02 M.sq.Dev= 0.11142E+02
+ Av. Kin. En.= 0.29917E+03 M.sq.Dev= 0.11142E+02
+ Temperature = 0.29917E+01 M.sq.Dev= 0.11142E+00
+ Pressure    = 0.51264E+03 M.sq.Dev= 0.10887E+03
+
+ time =  0.49500E+01 Instant Kin.energy= 0.30368E+03 Pot.E = -0.87588E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.32067E-02
+ Av. Pot. En.=-0.86374E+02 M.sq.Dev= 0.11122E+02
+ Av. Shft.En.=-0.83159E+02 M.sq.Dev= 0.11113E+02
+ Av. Kin. En.= 0.29925E+03 M.sq.Dev= 0.11113E+02
+ Temperature = 0.29925E+01 M.sq.Dev= 0.11113E+00
+ Pressure    = 0.51237E+03 M.sq.Dev= 0.10836E+03
+
+ time =  0.50000E+01 Instant Kin.energy= 0.30345E+03 Pot.E = -0.87363E+02 Total =  0.21609E+03
+ Av. Tot. En.= 0.21609E+03 M.sq.Dev= 0.31928E-02
+ Av. Pot. En.=-0.86435E+02 M.sq.Dev= 0.11083E+02
+ Av. Shft.En.=-0.83219E+02 M.sq.Dev= 0.11074E+02
+ Av. Kin. En.= 0.29931E+03 M.sq.Dev= 0.11074E+02
+ Temperature = 0.29931E+01 M.sq.Dev= 0.11074E+00
+ Pressure    = 0.51232E+03 M.sq.Dev= 0.10783E+03
+
